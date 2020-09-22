@@ -1,0 +1,7 @@
+Charlie;cat;12
+Dex;dog;18
+Muffins;rabbit;6
+Ram;parrot;24
+Capri;pig;42
+Doodle;dog;24
+Fuzz;cat; 12
